@@ -1,0 +1,3177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button circle 1`] = `
+<div>
+  <button
+    class="o-button o-button--default o-button--normal is-circle"
+    type="button"
+  >
+    D
+  </button>
+   
+  <button
+    class="o-button o-button--primary o-button--normal is-circle"
+    type="button"
+  >
+    P
+  </button>
+   
+  <button
+    class="o-button o-button--secondary o-button--normal is-circle"
+    type="button"
+  >
+    S
+  </button>
+   
+  <button
+    class="o-button o-button--info o-button--normal is-circle"
+    type="button"
+  >
+    I
+  </button>
+   
+  <button
+    class="o-button o-button--success o-button--normal is-circle"
+    type="button"
+  >
+    SC
+  </button>
+   
+  <button
+    class="o-button o-button--warning o-button--normal is-circle"
+    type="button"
+  >
+    W
+  </button>
+   
+  <button
+    class="o-button o-button--danger o-button--normal is-circle"
+    type="button"
+  >
+    D
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button disabled 1`] = `
+<div>
+  <div>
+    <button
+      class="o-button o-button--default o-button--normal is-disabled"
+      disabled="disabled"
+      type="button"
+    >
+      Default
+    </button>
+     
+    <button
+      class="o-button o-button--primary o-button--normal is-disabled"
+      disabled="disabled"
+      type="button"
+    >
+      Primary
+    </button>
+     
+    <button
+      class="o-button o-button--secondary o-button--normal is-disabled"
+      disabled="disabled"
+      type="button"
+    >
+      Secondary
+    </button>
+     
+    <button
+      class="o-button o-button--info o-button--normal is-disabled"
+      disabled="disabled"
+      type="button"
+    >
+      Info
+    </button>
+     
+    <button
+      class="o-button o-button--success o-button--normal is-disabled"
+      disabled="disabled"
+      type="button"
+    >
+      Success
+    </button>
+     
+    <button
+      class="o-button o-button--warning o-button--normal is-disabled"
+      disabled="disabled"
+      type="button"
+    >
+      Warning
+    </button>
+     
+    <div
+      style="margin-top: 10px; margin-left: 0px;"
+    >
+      <button
+        class="o-button o-button--danger o-button--normal is-disabled"
+        disabled="disabled"
+        type="button"
+      >
+        Danger
+      </button>
+       
+      <button
+        class="o-button o-button--text o-button--normal is-disabled"
+        disabled="disabled"
+        type="button"
+      >
+        Text
+      </button>
+    </div>
+  </div>
+   
+  <div
+    style="margin-top: 10px;"
+  >
+    <button
+      class="o-button o-button--default o-button--normal is-disabled is-plain"
+      disabled="disabled"
+      type="button"
+    >
+      Default
+    </button>
+     
+    <button
+      class="o-button o-button--primary o-button--normal is-disabled is-plain"
+      disabled="disabled"
+      type="button"
+    >
+      Primary
+    </button>
+     
+    <button
+      class="o-button o-button--secondary o-button--normal is-disabled is-plain"
+      disabled="disabled"
+      type="button"
+    >
+      Secondary
+    </button>
+     
+    <button
+      class="o-button o-button--info o-button--normal is-disabled is-plain"
+      disabled="disabled"
+      type="button"
+    >
+      Info
+    </button>
+     
+    <button
+      class="o-button o-button--success o-button--normal is-disabled is-plain"
+      disabled="disabled"
+      type="button"
+    >
+      Success
+    </button>
+     
+    <button
+      class="o-button o-button--warning o-button--normal is-disabled is-plain"
+      disabled="disabled"
+      type="button"
+    >
+      Warning
+    </button>
+     
+    <div
+      style="margin-top: 10px; margin-left: 0px;"
+    >
+      <button
+        class="o-button o-button--danger o-button--normal is-disabled is-plain"
+        disabled="disabled"
+        type="button"
+      >
+        Danger
+      </button>
+       
+      <button
+        class="o-button o-button--text o-button--normal is-disabled is-plain"
+        disabled="disabled"
+        type="button"
+      >
+        Text
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Button plain 1`] = `
+<div>
+  <button
+    class="o-button o-button--default o-button--normal is-plain"
+    type="button"
+  >
+    Default
+  </button>
+   
+  <button
+    class="o-button o-button--primary o-button--normal is-plain"
+    type="button"
+  >
+    Primary
+  </button>
+   
+  <button
+    class="o-button o-button--secondary o-button--normal is-plain"
+    type="button"
+  >
+    Secondary
+  </button>
+   
+  <button
+    class="o-button o-button--info o-button--normal is-plain"
+    type="button"
+  >
+    Info
+  </button>
+   
+  <button
+    class="o-button o-button--success o-button--normal is-plain"
+    type="button"
+  >
+    Success
+  </button>
+   
+  <button
+    class="o-button o-button--warning o-button--normal is-plain"
+    type="button"
+  >
+    Warning
+  </button>
+   
+  <div
+    style="margin-top: 10px; margin-left: 0px;"
+  >
+    <button
+      class="o-button o-button--danger o-button--normal is-plain"
+      type="button"
+    >
+      Danger
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Button round 1`] = `
+<div>
+  <button
+    class="o-button o-button--default o-button--normal is-round"
+    type="button"
+  >
+    Default
+  </button>
+   
+  <button
+    class="o-button o-button--primary o-button--normal is-round"
+    type="button"
+  >
+    Primary
+  </button>
+   
+  <button
+    class="o-button o-button--secondary o-button--normal is-round"
+    type="button"
+  >
+    Secondary
+  </button>
+   
+  <button
+    class="o-button o-button--info o-button--normal is-round"
+    type="button"
+  >
+    Info
+  </button>
+   
+  <button
+    class="o-button o-button--success o-button--normal is-round"
+    type="button"
+  >
+    Success
+  </button>
+   
+  <button
+    class="o-button o-button--warning o-button--normal is-round"
+    type="button"
+  >
+    Warning
+  </button>
+   
+  <div
+    style="margin-top: 10px; margin-left: 0px;"
+  >
+    <button
+      class="o-button o-button--danger o-button--normal is-round"
+      type="button"
+    >
+      Danger
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Button sizes 1`] = `
+<div>
+  <div>
+    <button
+      class="o-button o-button--default o-button--large"
+      type="button"
+    >
+      Default Large
+    </button>
+     
+    <button
+      class="o-button o-button--default o-button--normal"
+      type="button"
+    >
+      Default Normal
+    </button>
+     
+    <button
+      class="o-button o-button--default o-button--small"
+      type="button"
+    >
+      Default Small
+    </button>
+     
+    <button
+      class="o-button o-button--default o-button--mini"
+      type="button"
+    >
+      Default Mini
+    </button>
+  </div>
+   
+  <div
+    style="margin-top: 10px;"
+  >
+    <button
+      class="o-button o-button--primary o-button--large"
+      type="button"
+    >
+      Primary Large
+    </button>
+     
+    <button
+      class="o-button o-button--primary o-button--normal"
+      type="button"
+    >
+      Primary Normal
+    </button>
+     
+    <button
+      class="o-button o-button--primary o-button--small"
+      type="button"
+    >
+      Primary Small
+    </button>
+     
+    <button
+      class="o-button o-button--primary o-button--mini"
+      type="button"
+    >
+      Primary Mini
+    </button>
+  </div>
+   
+  <div
+    style="margin-top: 10px;"
+  >
+    <button
+      class="o-button o-button--secondary o-button--large"
+      type="button"
+    >
+      Secondary Large
+    </button>
+     
+    <button
+      class="o-button o-button--secondary o-button--normal"
+      type="button"
+    >
+      Secondary Normal
+    </button>
+     
+    <button
+      class="o-button o-button--secondary o-button--small"
+      type="button"
+    >
+      Secondary Small
+    </button>
+     
+    <button
+      class="o-button o-button--secondary o-button--mini"
+      type="button"
+    >
+      Secondary Mini
+    </button>
+  </div>
+   
+  <div
+    style="margin-top: 10px;"
+  >
+    <button
+      class="o-button o-button--info o-button--large"
+      type="button"
+    >
+      Info Large
+    </button>
+     
+    <button
+      class="o-button o-button--info o-button--normal"
+      type="button"
+    >
+      Info Normal
+    </button>
+     
+    <button
+      class="o-button o-button--info o-button--small"
+      type="button"
+    >
+      Info Small
+    </button>
+     
+    <button
+      class="o-button o-button--info o-button--mini"
+      type="button"
+    >
+      Info Mini
+    </button>
+  </div>
+   
+  <div
+    style="margin-top: 10px;"
+  >
+    <button
+      class="o-button o-button--success o-button--large"
+      type="button"
+    >
+      Success Large
+    </button>
+     
+    <button
+      class="o-button o-button--success o-button--normal"
+      type="button"
+    >
+      Success Normal
+    </button>
+     
+    <button
+      class="o-button o-button--success o-button--small"
+      type="button"
+    >
+      Success Small
+    </button>
+     
+    <button
+      class="o-button o-button--success o-button--mini"
+      type="button"
+    >
+      Success Mini
+    </button>
+  </div>
+   
+  <div
+    style="margin-top: 10px;"
+  >
+    <button
+      class="o-button o-button--warning o-button--large"
+      type="button"
+    >
+      Warning Large
+    </button>
+     
+    <button
+      class="o-button o-button--warning o-button--normal"
+      type="button"
+    >
+      Warning Normal
+    </button>
+     
+    <button
+      class="o-button o-button--warning o-button--small"
+      type="button"
+    >
+      Warning Small
+    </button>
+     
+    <button
+      class="o-button o-button--warning o-button--mini"
+      type="button"
+    >
+      Warning Mini
+    </button>
+  </div>
+   
+  <div
+    style="margin-top: 10px;"
+  >
+    <button
+      class="o-button o-button--danger o-button--large"
+      type="button"
+    >
+      Danger Large
+    </button>
+     
+    <button
+      class="o-button o-button--danger o-button--normal"
+      type="button"
+    >
+      Danger Normal
+    </button>
+     
+    <button
+      class="o-button o-button--danger o-button--small"
+      type="button"
+    >
+      Danger Small
+    </button>
+     
+    <button
+      class="o-button o-button--danger o-button--mini"
+      type="button"
+    >
+      Danger Mini
+    </button>
+  </div>
+   
+  <div
+    style="margin-top: 10px;"
+  >
+    <button
+      class="o-button o-button--text o-button--large"
+      type="button"
+    >
+      Text Large
+    </button>
+     
+    <button
+      class="o-button o-button--text o-button--normal"
+      type="button"
+    >
+      Text Normal
+    </button>
+     
+    <button
+      class="o-button o-button--text o-button--small"
+      type="button"
+    >
+      Text Small
+    </button>
+     
+    <button
+      class="o-button o-button--text o-button--mini"
+      type="button"
+    >
+      Text Mini
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Button types 1`] = `
+<div>
+  <button
+    class="o-button o-button--default o-button--normal"
+    type="button"
+  >
+    Default
+  </button>
+   
+  <button
+    class="o-button o-button--primary o-button--normal"
+    type="button"
+  >
+    Primary
+  </button>
+   
+  <button
+    class="o-button o-button--secondary o-button--normal"
+    type="button"
+  >
+    Secondary
+  </button>
+   
+  <button
+    class="o-button o-button--info o-button--normal"
+    type="button"
+  >
+    Info
+  </button>
+   
+  <button
+    class="o-button o-button--success o-button--normal"
+    type="button"
+  >
+    Success
+  </button>
+   
+  <button
+    class="o-button o-button--warning o-button--normal"
+    type="button"
+  >
+    Warning
+  </button>
+   
+  <div
+    style="margin-top: 10px; margin-left: 0px;"
+  >
+    <button
+      class="o-button o-button--danger o-button--normal"
+      type="button"
+    >
+      Danger
+    </button>
+     
+    <button
+      class="o-button o-button--text o-button--normal"
+      type="button"
+    >
+      Text
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Checkbox default 1`] = `
+<div>
+  <p>
+    Selected Value: 1
+  </p>
+   
+  <label
+    class="o-checkbox o-checkbox--medium is-checked"
+    role="checkbox"
+  >
+    <input
+      aria-hidden="true"
+      class="o-checkbox__inner"
+      name="check"
+      type="checkbox"
+      value="1"
+    />
+     
+    <span
+      class="o-checkbox__label"
+    >
+      
+      checkbox
+    
+    </span>
+  </label>
+</div>
+`;
+
+exports[`Storyshots Checkbox with a disabled 1`] = `
+<label
+  class="o-checkbox o-checkbox--medium is-disabled"
+  role="checkbox"
+>
+  <input
+    aria-hidden="true"
+    class="o-checkbox__inner"
+    disabled="disabled"
+    name="check"
+    type="checkbox"
+    value="1"
+  />
+   
+  <span
+    class="o-checkbox__label"
+  >
+    
+      Disabled checkbox
+    
+  </span>
+</label>
+`;
+
+exports[`Storyshots Checkbox with model being an array 1`] = `
+<div>
+  <p>
+    Model Value: []
+  </p>
+   
+  <label
+    class="o-checkbox o-checkbox--medium"
+    role="checkbox"
+  >
+    <input
+      aria-hidden="true"
+      class="o-checkbox__inner"
+      name="check"
+      type="checkbox"
+      value="1"
+    />
+     
+    <span
+      class="o-checkbox__label"
+    >
+      
+      1
+    
+    </span>
+  </label>
+   
+  <label
+    class="o-checkbox o-checkbox--medium"
+    role="checkbox"
+  >
+    <input
+      aria-hidden="true"
+      class="o-checkbox__inner"
+      name="check"
+      type="checkbox"
+      value="2"
+    />
+     
+    <span
+      class="o-checkbox__label"
+    >
+      
+      2
+    
+    </span>
+  </label>
+</div>
+`;
+
+exports[`Storyshots Col default 1`] = `
+<div
+  class="o-row is-justify-flex-start is-align-flex-start is-content-flex-start is-direction-row is-wrap"
+  style="margin-left: -10px; margin-right: -10px;"
+>
+  <div
+    class="o-col-12 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    a
+  </div>
+   
+  <div
+    class="o-col-8 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    b
+  </div>
+   
+  <div
+    class="o-col-4 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    c
+  </div>
+   
+  <div
+    class="o-col-8 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    d
+  </div>
+   
+  <div
+    class="o-col-8 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    e
+  </div>
+   
+  <div
+    class="o-col-8 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    f
+  </div>
+</div>
+`;
+
+exports[`Storyshots Col offset 1`] = `
+<div
+  class="o-row is-justify-flex-start is-align-flex-start is-content-flex-start is-direction-row is-wrap"
+  style="margin-left: -10px; margin-right: -10px;"
+>
+  <div
+    class="o-col-1 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    a
+  </div>
+   
+  <div
+    class="o-col-2 o-col-offset-21"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    b
+  </div>
+   
+  <div
+    class="o-col-4 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    c
+  </div>
+   
+  <div
+    class="o-col-8 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    d
+  </div>
+   
+  <div
+    class="o-col-8 o-col-offset-4"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    e
+  </div>
+   
+  <div
+    class="o-col-8 o-col-offset-0"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    f
+  </div>
+</div>
+`;
+
+exports[`Storyshots Col responsive 1`] = `
+<div
+  class="o-row is-justify-flex-start is-align-flex-start is-content-flex-start is-direction-row is-wrap"
+  style="margin-left: -10px; margin-right: -10px;"
+>
+  <div
+    class="o-col-24 o-col-offset-0 o-col-xs-24 o-col-sm-12 o-col-md-8 o-col-lg-6 o-col-xl-3"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    a
+  </div>
+   
+  <div
+    class="o-col-24 o-col-offset-0 o-col-xs-24 o-col-sm-12 o-col-md-8 o-col-lg-6 o-col-xl-3"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    a
+  </div>
+   
+  <div
+    class="o-col-24 o-col-offset-0 o-col-xs-24 o-col-sm-12 o-col-md-8 o-col-lg-6 o-col-xl-3"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    a
+  </div>
+   
+  <div
+    class="o-col-24 o-col-offset-0 o-col-xs-24 o-col-sm-12 o-col-md-8 o-col-lg-6 o-col-xl-3"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    a
+  </div>
+   
+  <div
+    class="o-col-24 o-col-offset-0 o-col-xs-24 o-col-sm-12 o-col-md-8 o-col-lg-6 o-col-xl-3"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    a
+  </div>
+   
+  <div
+    class="o-col-24 o-col-offset-0 o-col-xs-24 o-col-sm-12 o-col-md-8 o-col-lg-6 o-col-xl-3"
+    style="padding-left: 10px; padding-right: 10px;"
+  >
+    a
+  </div>
+</div>
+`;
+
+exports[`Storyshots Form basic usage 1`] = `
+<form
+  class="o-form o-form--top"
+  style="width: 100%;"
+>
+  <div
+    class="o-form-item"
+  >
+    <div
+      class="o-form-item__label"
+      style="width: 200px;"
+    >
+      <span
+        class="color-danger"
+      >
+        
+      *
+    
+      </span>
+       
+      <label
+        for="name"
+      >
+        
+        Name
+      
+      </label>
+    </div>
+     
+    <div
+      class="o-form-item__content"
+    >
+      <div
+        class="o-input o-input--normal"
+        style="width: 300px;"
+      >
+        <input
+          class="o-input__inner"
+          max="Infinity"
+          maxlength="Infinity"
+          min="0"
+          minlength="0"
+          placeholder=""
+          type="text"
+        />
+         
+        <!---->
+         
+        <!---->
+          
+      </div>
+       
+      <!---->
+    </div>
+  </div>
+   
+  <div
+    class="o-form-item"
+  >
+    <div
+      class="o-form-item__label"
+      style="width: 200px;"
+    >
+      <!---->
+       
+      <label
+        for="email"
+      >
+        
+        E-mail
+      
+      </label>
+    </div>
+     
+    <div
+      class="o-form-item__content"
+    >
+      <div
+        class="o-input o-input--normal"
+        style="width: 300px;"
+      >
+        <input
+          class="o-input__inner"
+          max="Infinity"
+          maxlength="Infinity"
+          min="0"
+          minlength="0"
+          placeholder=""
+          type="text"
+        />
+         
+        <!---->
+         
+        <!---->
+          
+      </div>
+       
+      <!---->
+    </div>
+  </div>
+   
+  <div
+    class="o-form-item"
+  >
+    <div
+      class="o-form-item__label"
+      style="width: 200px;"
+    >
+      <span
+        class="color-danger"
+      >
+        
+      *
+    
+      </span>
+       
+      <label
+        for="isReal"
+      >
+        
+        Are your a real person?
+      
+      </label>
+    </div>
+     
+    <div
+      class="o-form-item__content"
+    >
+      <label
+        class="o-radio o-radio--medium"
+        role="radio"
+      >
+        <input
+          aria-hidden="true"
+          class="o-radio__inner"
+          type="radio"
+          value="true"
+        />
+         
+        <span
+          class="o-radio__label"
+        >
+          Yes
+        </span>
+      </label>
+       
+      <label
+        class="o-radio o-radio--medium"
+        role="radio"
+      >
+        <input
+          aria-hidden="true"
+          class="o-radio__inner"
+          type="radio"
+          value="false"
+        />
+         
+        <span
+          class="o-radio__label"
+        >
+          No
+        </span>
+      </label>
+       
+      <!---->
+    </div>
+  </div>
+   
+  <div
+    class="o-form-item"
+  >
+    <div
+      class="o-form-item__label"
+      style="width: 200px;"
+    >
+      <span
+        class="color-danger"
+      >
+        
+      *
+    
+      </span>
+       
+      <label
+        for="languages"
+      >
+        
+        Which following languages do you know?
+      
+      </label>
+    </div>
+     
+    <div
+      class="o-form-item__content"
+    >
+      <label
+        class="o-checkbox o-checkbox--medium"
+        role="checkbox"
+      >
+        <input
+          aria-hidden="true"
+          class="o-checkbox__inner"
+          type="checkbox"
+          value="Javascript"
+        />
+         
+        <span
+          class="o-checkbox__label"
+        >
+          Javascript
+        </span>
+      </label>
+       
+      <label
+        class="o-checkbox o-checkbox--medium"
+        role="checkbox"
+      >
+        <input
+          aria-hidden="true"
+          class="o-checkbox__inner"
+          type="checkbox"
+          value="PHP"
+        />
+         
+        <span
+          class="o-checkbox__label"
+        >
+          PHP
+        </span>
+      </label>
+       
+      <label
+        class="o-checkbox o-checkbox--medium"
+        role="checkbox"
+      >
+        <input
+          aria-hidden="true"
+          class="o-checkbox__inner"
+          type="checkbox"
+          value="Python"
+        />
+         
+        <span
+          class="o-checkbox__label"
+        >
+          Python
+        </span>
+      </label>
+       
+      <label
+        class="o-checkbox o-checkbox--medium"
+        role="checkbox"
+      >
+        <input
+          aria-hidden="true"
+          class="o-checkbox__inner"
+          type="checkbox"
+          value="Ruby"
+        />
+         
+        <span
+          class="o-checkbox__label"
+        >
+          Ruby
+        </span>
+      </label>
+       
+      <!---->
+    </div>
+  </div>
+   
+  <div
+    class="o-form-item"
+  >
+    <div
+      class="o-form-item__label"
+      style="width: 200px;"
+    >
+      <span
+        class="color-danger"
+      >
+        
+      *
+    
+      </span>
+       
+      <label
+        for="country"
+      >
+        
+        Where are you from?
+      
+      </label>
+    </div>
+     
+    <div
+      class="o-form-item__content"
+    >
+      <div
+        class="o-select o-select--normal"
+        style="width: 300px;"
+      >
+        <button
+          class="o-select__trigger"
+        >
+          <!---->
+           
+          <!---->
+           
+          <span
+            class="o-select__placeholder"
+          >
+            
+      Select your country
+
+      
+            <!---->
+          </span>
+           
+          <span
+            class="o-select__arrow"
+          >
+            <i
+              class="o-icon o-icon-chevron-down"
+            />
+          </span>
+           
+          <!---->
+        </button>
+         
+        <!---->
+         
+        <div
+          class="o-select__dropdown o-popper"
+          style="display: none;"
+        >
+          <div
+            class="o-select__dropdown__inner"
+          >
+            <ul
+              class="o-select__list"
+            >
+              <li
+                class="o-select__list-item"
+              >
+                
+          Brazil
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          United States
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          Germany
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          French
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          Italy
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          China
+        
+              </li>
+            </ul>
+             
+            <!---->
+             
+            <div
+              class="o-popper__arrow"
+            />
+          </div>
+        </div>
+      </div>
+       
+      <!---->
+    </div>
+  </div>
+   
+  <div
+    class="o-form-item"
+  >
+    <div
+      class="o-form-item__label"
+      style="width: 200px;"
+    >
+      <span
+        class="color-danger"
+      >
+        
+      *
+    
+      </span>
+       
+      <label
+        for="cities"
+      >
+        
+        What places did you already visited?
+      
+      </label>
+    </div>
+     
+    <div
+      class="o-form-item__content"
+    >
+      <div
+        class="o-select o-select--normal"
+        style="width: 300px;"
+      >
+        <button
+          class="o-select__trigger"
+        >
+          <!---->
+           
+          <span />
+           
+          <span
+            class="o-select__placeholder"
+          >
+            
+      Select the cities
+
+      
+            <!---->
+          </span>
+           
+          <span
+            class="o-select__arrow"
+          >
+            <i
+              class="o-icon o-icon-chevron-down"
+            />
+          </span>
+           
+          <!---->
+        </button>
+         
+        <!---->
+         
+        <div
+          class="o-select__dropdown o-popper"
+          style="display: none;"
+        >
+          <div
+            class="o-select__dropdown__inner"
+          >
+            <ul
+              class="o-select__list is-multiple"
+            >
+              <li
+                class="o-select__list-item"
+              >
+                
+          São Paulo
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          London
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          Berlin
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          Paris
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          Roma
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          Beijing
+        
+              </li>
+              <li
+                class="o-select__list-item"
+              >
+                
+          New York
+        
+              </li>
+            </ul>
+             
+            <!---->
+             
+            <div
+              class="o-popper__arrow"
+            />
+          </div>
+        </div>
+      </div>
+       
+      <!---->
+    </div>
+  </div>
+   
+  <button
+    class="o-button o-button--primary o-button--normal"
+    type="submit"
+  >
+    Validate
+  </button>
+   
+  <button
+    class="o-button o-button--default o-button--normal"
+    type="button"
+  >
+    Clear validation
+  </button>
+</form>
+`;
+
+exports[`Storyshots Icons default 1`] = `
+<div>
+  <i
+    class="o-icon o-icon-alert-octagon"
+  />
+   
+  <i
+    class="o-icon o-icon-alert-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-activity"
+  />
+   
+  <i
+    class="o-icon o-icon-alert-triangle"
+  />
+   
+  <i
+    class="o-icon o-icon-align-center"
+  />
+   
+  <i
+    class="o-icon o-icon-airplay"
+  />
+   
+  <i
+    class="o-icon o-icon-align-justify"
+  />
+   
+  <i
+    class="o-icon o-icon-align-left"
+  />
+   
+  <i
+    class="o-icon o-icon-align-right"
+  />
+   
+  <i
+    class="o-icon o-icon-arrow-down-left"
+  />
+   
+  <i
+    class="o-icon o-icon-arrow-down-right"
+  />
+   
+  <i
+    class="o-icon o-icon-anchor"
+  />
+   
+  <i
+    class="o-icon o-icon-aperture"
+  />
+   
+  <i
+    class="o-icon o-icon-arrow-left"
+  />
+   
+  <i
+    class="o-icon o-icon-arrow-right"
+  />
+   
+  <i
+    class="o-icon o-icon-arrow-down"
+  />
+   
+  <i
+    class="o-icon o-icon-arrow-up-left"
+  />
+   
+  <i
+    class="o-icon o-icon-arrow-up-right"
+  />
+   
+  <i
+    class="o-icon o-icon-arrow-up"
+  />
+   
+  <i
+    class="o-icon o-icon-award"
+  />
+   
+  <i
+    class="o-icon o-icon-bar-chart"
+  />
+   
+  <i
+    class="o-icon o-icon-at-sign"
+  />
+   
+  <i
+    class="o-icon o-icon-bar-chart-"
+  />
+   
+  <i
+    class="o-icon o-icon-battery-charging"
+  />
+   
+  <i
+    class="o-icon o-icon-bell-off"
+  />
+   
+  <i
+    class="o-icon o-icon-battery"
+  />
+   
+  <i
+    class="o-icon o-icon-bluetooth"
+  />
+   
+  <i
+    class="o-icon o-icon-bell"
+  />
+   
+  <i
+    class="o-icon o-icon-book"
+  />
+   
+  <i
+    class="o-icon o-icon-briefcase"
+  />
+   
+  <i
+    class="o-icon o-icon-camero-off"
+  />
+   
+  <i
+    class="o-icon o-icon-calendar"
+  />
+   
+  <i
+    class="o-icon o-icon-bookmark"
+  />
+   
+  <i
+    class="o-icon o-icon-box"
+  />
+   
+  <i
+    class="o-icon o-icon-camera"
+  />
+   
+  <i
+    class="o-icon o-icon-check-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-check"
+  />
+   
+  <i
+    class="o-icon o-icon-check-square"
+  />
+   
+  <i
+    class="o-icon o-icon-cast"
+  />
+   
+  <i
+    class="o-icon o-icon-chevron-down"
+  />
+   
+  <i
+    class="o-icon o-icon-chevron-left"
+  />
+   
+  <i
+    class="o-icon o-icon-chevron-right"
+  />
+   
+  <i
+    class="o-icon o-icon-chevron-up"
+  />
+   
+  <i
+    class="o-icon o-icon-chevrons-down"
+  />
+   
+  <i
+    class="o-icon o-icon-chevrons-right"
+  />
+   
+  <i
+    class="o-icon o-icon-chevrons-up"
+  />
+   
+  <i
+    class="o-icon o-icon-chevrons-left"
+  />
+   
+  <i
+    class="o-icon o-icon-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-clipboard"
+  />
+   
+  <i
+    class="o-icon o-icon-chrome"
+  />
+   
+  <i
+    class="o-icon o-icon-clock"
+  />
+   
+  <i
+    class="o-icon o-icon-cloud-lightning"
+  />
+   
+  <i
+    class="o-icon o-icon-cloud-drizzle"
+  />
+   
+  <i
+    class="o-icon o-icon-cloud-rain"
+  />
+   
+  <i
+    class="o-icon o-icon-cloud-off"
+  />
+   
+  <i
+    class="o-icon o-icon-codepen"
+  />
+   
+  <i
+    class="o-icon o-icon-cloud-snow"
+  />
+   
+  <i
+    class="o-icon o-icon-compass"
+  />
+   
+  <i
+    class="o-icon o-icon-copy"
+  />
+   
+  <i
+    class="o-icon o-icon-corner-down-right"
+  />
+   
+  <i
+    class="o-icon o-icon-corner-down-left"
+  />
+   
+  <i
+    class="o-icon o-icon-corner-left-down"
+  />
+   
+  <i
+    class="o-icon o-icon-corner-left-up"
+  />
+   
+  <i
+    class="o-icon o-icon-corner-up-left"
+  />
+   
+  <i
+    class="o-icon o-icon-corner-up-right"
+  />
+   
+  <i
+    class="o-icon o-icon-corner-right-down"
+  />
+   
+  <i
+    class="o-icon o-icon-corner-right-up"
+  />
+   
+  <i
+    class="o-icon o-icon-cpu"
+  />
+   
+  <i
+    class="o-icon o-icon-credit-card"
+  />
+   
+  <i
+    class="o-icon o-icon-crosshair"
+  />
+   
+  <i
+    class="o-icon o-icon-disc"
+  />
+   
+  <i
+    class="o-icon o-icon-delete"
+  />
+   
+  <i
+    class="o-icon o-icon-download-cloud"
+  />
+   
+  <i
+    class="o-icon o-icon-download"
+  />
+   
+  <i
+    class="o-icon o-icon-droplet"
+  />
+   
+  <i
+    class="o-icon o-icon-edit-"
+  />
+   
+  <i
+    class="o-icon o-icon-edit"
+  />
+   
+  <i
+    class="o-icon o-icon-edit-1"
+  />
+   
+  <i
+    class="o-icon o-icon-external-link"
+  />
+   
+  <i
+    class="o-icon o-icon-eye"
+  />
+   
+  <i
+    class="o-icon o-icon-feather"
+  />
+   
+  <i
+    class="o-icon o-icon-facebook"
+  />
+   
+  <i
+    class="o-icon o-icon-file-minus"
+  />
+   
+  <i
+    class="o-icon o-icon-eye-off"
+  />
+   
+  <i
+    class="o-icon o-icon-fast-forward"
+  />
+   
+  <i
+    class="o-icon o-icon-file-text"
+  />
+   
+  <i
+    class="o-icon o-icon-film"
+  />
+   
+  <i
+    class="o-icon o-icon-file"
+  />
+   
+  <i
+    class="o-icon o-icon-file-plus"
+  />
+   
+  <i
+    class="o-icon o-icon-folder"
+  />
+   
+  <i
+    class="o-icon o-icon-filter"
+  />
+   
+  <i
+    class="o-icon o-icon-flag"
+  />
+   
+  <i
+    class="o-icon o-icon-globe"
+  />
+   
+  <i
+    class="o-icon o-icon-grid"
+  />
+   
+  <i
+    class="o-icon o-icon-heart"
+  />
+   
+  <i
+    class="o-icon o-icon-home"
+  />
+   
+  <i
+    class="o-icon o-icon-github"
+  />
+   
+  <i
+    class="o-icon o-icon-image"
+  />
+   
+  <i
+    class="o-icon o-icon-inbox"
+  />
+   
+  <i
+    class="o-icon o-icon-layers"
+  />
+   
+  <i
+    class="o-icon o-icon-info"
+  />
+   
+  <i
+    class="o-icon o-icon-instagram"
+  />
+   
+  <i
+    class="o-icon o-icon-layout"
+  />
+   
+  <i
+    class="o-icon o-icon-link-"
+  />
+   
+  <i
+    class="o-icon o-icon-life-buoy"
+  />
+   
+  <i
+    class="o-icon o-icon-link"
+  />
+   
+  <i
+    class="o-icon o-icon-log-in"
+  />
+   
+  <i
+    class="o-icon o-icon-list"
+  />
+   
+  <i
+    class="o-icon o-icon-lock"
+  />
+   
+  <i
+    class="o-icon o-icon-log-out"
+  />
+   
+  <i
+    class="o-icon o-icon-loader"
+  />
+   
+  <i
+    class="o-icon o-icon-mail"
+  />
+   
+  <i
+    class="o-icon o-icon-maximize-"
+  />
+   
+  <i
+    class="o-icon o-icon-map"
+  />
+   
+  <i
+    class="o-icon o-icon-maximize"
+  />
+   
+  <i
+    class="o-icon o-icon-map-pin"
+  />
+   
+  <i
+    class="o-icon o-icon-menu"
+  />
+   
+  <i
+    class="o-icon o-icon-message-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-message-square"
+  />
+   
+  <i
+    class="o-icon o-icon-minimize-"
+  />
+   
+  <i
+    class="o-icon o-icon-mic-off"
+  />
+   
+  <i
+    class="o-icon o-icon-minus-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-mic"
+  />
+   
+  <i
+    class="o-icon o-icon-minus-square"
+  />
+   
+  <i
+    class="o-icon o-icon-minus"
+  />
+   
+  <i
+    class="o-icon o-icon-moon"
+  />
+   
+  <i
+    class="o-icon o-icon-monitor"
+  />
+   
+  <i
+    class="o-icon o-icon-more-vertical"
+  />
+   
+  <i
+    class="o-icon o-icon-more-horizontal"
+  />
+   
+  <i
+    class="o-icon o-icon-move"
+  />
+   
+  <i
+    class="o-icon o-icon-music"
+  />
+   
+  <i
+    class="o-icon o-icon-navigation-"
+  />
+   
+  <i
+    class="o-icon o-icon-navigation"
+  />
+   
+  <i
+    class="o-icon o-icon-octagon"
+  />
+   
+  <i
+    class="o-icon o-icon-package"
+  />
+   
+  <i
+    class="o-icon o-icon-pause-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-pause"
+  />
+   
+  <i
+    class="o-icon o-icon-percent"
+  />
+   
+  <i
+    class="o-icon o-icon-phone-call"
+  />
+   
+  <i
+    class="o-icon o-icon-phone-forwarded"
+  />
+   
+  <i
+    class="o-icon o-icon-phone-missed"
+  />
+   
+  <i
+    class="o-icon o-icon-phone-off"
+  />
+   
+  <i
+    class="o-icon o-icon-phone-incoming"
+  />
+   
+  <i
+    class="o-icon o-icon-phone"
+  />
+   
+  <i
+    class="o-icon o-icon-phone-outgoing"
+  />
+   
+  <i
+    class="o-icon o-icon-pie-chart"
+  />
+   
+  <i
+    class="o-icon o-icon-play-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-play"
+  />
+   
+  <i
+    class="o-icon o-icon-plus-square"
+  />
+   
+  <i
+    class="o-icon o-icon-plus-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-plus"
+  />
+   
+  <i
+    class="o-icon o-icon-pocket"
+  />
+   
+  <i
+    class="o-icon o-icon-printer"
+  />
+   
+  <i
+    class="o-icon o-icon-power"
+  />
+   
+  <i
+    class="o-icon o-icon-radio"
+  />
+   
+  <i
+    class="o-icon o-icon-repeat"
+  />
+   
+  <i
+    class="o-icon o-icon-refresh-ccw"
+  />
+   
+  <i
+    class="o-icon o-icon-rewind"
+  />
+   
+  <i
+    class="o-icon o-icon-rotate-ccw"
+  />
+   
+  <i
+    class="o-icon o-icon-refresh-cw"
+  />
+   
+  <i
+    class="o-icon o-icon-rotate-cw"
+  />
+   
+  <i
+    class="o-icon o-icon-save"
+  />
+   
+  <i
+    class="o-icon o-icon-search"
+  />
+   
+  <i
+    class="o-icon o-icon-server"
+  />
+   
+  <i
+    class="o-icon o-icon-scissors"
+  />
+   
+  <i
+    class="o-icon o-icon-share-"
+  />
+   
+  <i
+    class="o-icon o-icon-share"
+  />
+   
+  <i
+    class="o-icon o-icon-shield"
+  />
+   
+  <i
+    class="o-icon o-icon-settings"
+  />
+   
+  <i
+    class="o-icon o-icon-skip-back"
+  />
+   
+  <i
+    class="o-icon o-icon-shuffle"
+  />
+   
+  <i
+    class="o-icon o-icon-sidebar"
+  />
+   
+  <i
+    class="o-icon o-icon-skip-forward"
+  />
+   
+  <i
+    class="o-icon o-icon-slack"
+  />
+   
+  <i
+    class="o-icon o-icon-slash"
+  />
+   
+  <i
+    class="o-icon o-icon-smartphone"
+  />
+   
+  <i
+    class="o-icon o-icon-square"
+  />
+   
+  <i
+    class="o-icon o-icon-speaker"
+  />
+   
+  <i
+    class="o-icon o-icon-star"
+  />
+   
+  <i
+    class="o-icon o-icon-stop-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-sun"
+  />
+   
+  <i
+    class="o-icon o-icon-sunrise"
+  />
+   
+  <i
+    class="o-icon o-icon-tablet"
+  />
+   
+  <i
+    class="o-icon o-icon-tag"
+  />
+   
+  <i
+    class="o-icon o-icon-sunset"
+  />
+   
+  <i
+    class="o-icon o-icon-target"
+  />
+   
+  <i
+    class="o-icon o-icon-thermometer"
+  />
+   
+  <i
+    class="o-icon o-icon-thumbs-up"
+  />
+   
+  <i
+    class="o-icon o-icon-thumbs-down"
+  />
+   
+  <i
+    class="o-icon o-icon-toggle-left"
+  />
+   
+  <i
+    class="o-icon o-icon-toggle-right"
+  />
+   
+  <i
+    class="o-icon o-icon-trash-"
+  />
+   
+  <i
+    class="o-icon o-icon-trash"
+  />
+   
+  <i
+    class="o-icon o-icon-trending-up"
+  />
+   
+  <i
+    class="o-icon o-icon-trending-down"
+  />
+   
+  <i
+    class="o-icon o-icon-triangle"
+  />
+   
+  <i
+    class="o-icon o-icon-type"
+  />
+   
+  <i
+    class="o-icon o-icon-twitter"
+  />
+   
+  <i
+    class="o-icon o-icon-upload"
+  />
+   
+  <i
+    class="o-icon o-icon-umbrella"
+  />
+   
+  <i
+    class="o-icon o-icon-upload-cloud"
+  />
+   
+  <i
+    class="o-icon o-icon-unlock"
+  />
+   
+  <i
+    class="o-icon o-icon-user-check"
+  />
+   
+  <i
+    class="o-icon o-icon-user-minus"
+  />
+   
+  <i
+    class="o-icon o-icon-user-plus"
+  />
+   
+  <i
+    class="o-icon o-icon-user-x"
+  />
+   
+  <i
+    class="o-icon o-icon-user"
+  />
+   
+  <i
+    class="o-icon o-icon-users"
+  />
+   
+  <i
+    class="o-icon o-icon-video-off"
+  />
+   
+  <i
+    class="o-icon o-icon-video"
+  />
+   
+  <i
+    class="o-icon o-icon-voicemail"
+  />
+   
+  <i
+    class="o-icon o-icon-volume-x"
+  />
+   
+  <i
+    class="o-icon o-icon-volume-"
+  />
+   
+  <i
+    class="o-icon o-icon-volume-1"
+  />
+   
+  <i
+    class="o-icon o-icon-volume"
+  />
+   
+  <i
+    class="o-icon o-icon-watch"
+  />
+   
+  <i
+    class="o-icon o-icon-wifi"
+  />
+   
+  <i
+    class="o-icon o-icon-x-square"
+  />
+   
+  <i
+    class="o-icon o-icon-wind"
+  />
+   
+  <i
+    class="o-icon o-icon-x"
+  />
+   
+  <i
+    class="o-icon o-icon-x-circle"
+  />
+   
+  <i
+    class="o-icon o-icon-zap"
+  />
+   
+  <i
+    class="o-icon o-icon-zoom-in"
+  />
+   
+  <i
+    class="o-icon o-icon-zoom-out"
+  />
+   
+  <i
+    class="o-icon o-icon-command"
+  />
+   
+  <i
+    class="o-icon o-icon-cloud"
+  />
+   
+  <i
+    class="o-icon o-icon-hash"
+  />
+   
+  <i
+    class="o-icon o-icon-headphones"
+  />
+</div>
+`;
+
+exports[`Storyshots Input default 1`] = `
+<div
+  class="o-input o-input--normal"
+  style="width: 300px;"
+>
+  <input
+    class="o-input__inner"
+    max="Infinity"
+    maxlength="Infinity"
+    min="0"
+    minlength="0"
+    placeholder="Type here"
+    type="text"
+  />
+   
+  <!---->
+   
+  <!---->
+    
+</div>
+`;
+
+exports[`Storyshots Input disabled 1`] = `
+<div
+  class="o-input o-input--normal is-disabled"
+  style="width: 300px;"
+>
+  <input
+    class="o-input__inner"
+    disabled="disabled"
+    max="Infinity"
+    maxlength="Infinity"
+    min="0"
+    minlength="0"
+    placeholder="Type here"
+    type="text"
+  />
+   
+  <!---->
+   
+  <!---->
+    
+</div>
+`;
+
+exports[`Storyshots Input readonly 1`] = `
+<div
+  class="o-input o-input--normal"
+  style="width: 300px;"
+>
+  <input
+    class="o-input__inner"
+    max="Infinity"
+    maxlength="Infinity"
+    min="0"
+    minlength="0"
+    placeholder="Type here"
+    readonly="readonly"
+    type="text"
+  />
+   
+  <!---->
+   
+  <!---->
+    
+</div>
+`;
+
+exports[`Storyshots Input sizes 1`] = `
+<div>
+  <div
+    class="o-input o-input--large"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Large size"
+      type="text"
+    />
+     
+    <!---->
+     
+    <!---->
+      
+  </div>
+   
+  <div
+    class="o-input o-input--normal"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Normal size"
+      type="text"
+    />
+     
+    <!---->
+     
+    <!---->
+      
+  </div>
+   
+  <div
+    class="o-input o-input--small"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Small Size"
+      type="text"
+    />
+     
+    <!---->
+     
+    <!---->
+      
+  </div>
+   
+  <div
+    class="o-input o-input--mini"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Mini Size"
+      type="text"
+    />
+     
+    <!---->
+     
+    <!---->
+      
+  </div>
+</div>
+`;
+
+exports[`Storyshots Input with icon 1`] = `
+<div>
+  <div
+    class="o-input o-input--normal o-input__prefix"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Type here"
+      type="text"
+    />
+     
+    <i
+      class="o-input__icon--prefix o-icon o-icon-search"
+    />
+     
+    <!---->
+      
+  </div>
+   
+  <div
+    class="o-input o-input--normal o-input__suffix"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Type here"
+      type="text"
+    />
+     
+    <!---->
+     
+    <i
+      class="o-input__icon--suffix o-icon o-icon-calendar"
+    />
+      
+  </div>
+   
+  <div
+    class="o-input o-input--normal o-input__prefix o-input__suffix"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Type here"
+      type="text"
+    />
+     
+    <i
+      class="o-input__icon--prefix o-icon o-icon-search"
+    />
+     
+    <i
+      class="o-input__icon--suffix o-icon o-icon-calendar"
+    />
+      
+  </div>
+   
+  <div
+    class="o-input o-input--normal o-input__prefix"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder=""
+      type="text"
+    />
+     
+    <!---->
+     
+    <!---->
+     
+    <i
+      class="o-icon o-icon-search o-input__icon--prefix"
+      placeholder="Type here"
+    />
+     
+  </div>
+   
+  <div
+    class="o-input o-input--normal o-input__suffix"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder=""
+      type="text"
+    />
+     
+    <!---->
+     
+    <!---->
+      
+    <i
+      class="o-icon o-icon-calendar o-input__icon--suffix"
+      placeholder="Type here"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Input with status 1`] = `
+<div>
+  <div
+    class="o-input o-input--normal o-input__suffix is-success"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Type here"
+      type="text"
+    />
+     
+    <!---->
+     
+    <i
+      class="o-input__icon--suffix o-icon o-icon-check"
+    />
+      
+  </div>
+   
+  <div
+    class="o-input o-input--normal o-input__suffix is-error"
+    style="width: 300px;"
+  >
+    <input
+      class="o-input__inner"
+      max="Infinity"
+      maxlength="Infinity"
+      min="0"
+      minlength="0"
+      placeholder="Type here"
+      type="text"
+    />
+     
+    <!---->
+     
+    <i
+      class="o-input__icon--suffix o-icon o-icon-x"
+    />
+      
+  </div>
+</div>
+`;
+
+exports[`Storyshots Radio default 1`] = `
+<div>
+  <p>
+    Selected Value: 1
+  </p>
+   
+  <label
+    class="o-radio o-radio--medium is-checked"
+    role="radio"
+  >
+    <input
+      aria-hidden="true"
+      class="o-radio__inner"
+      name="radio"
+      type="radio"
+      value="1"
+    />
+     
+    <span
+      class="o-radio__label"
+    >
+      
+      1
+    
+    </span>
+  </label>
+   
+  <label
+    class="o-radio o-radio--medium"
+    role="radio"
+  >
+    <input
+      aria-hidden="true"
+      class="o-radio__inner"
+      name="radio"
+      type="radio"
+      value="2"
+    />
+     
+    <span
+      class="o-radio__label"
+    >
+      
+      2
+    
+    </span>
+  </label>
+</div>
+`;
+
+exports[`Storyshots Radio with a disabled 1`] = `
+<div>
+  <p>
+    Selected Value: 2
+  </p>
+   
+  <label
+    class="o-radio o-radio--medium is-disabled"
+    role="radio"
+  >
+    <input
+      aria-hidden="true"
+      class="o-radio__inner"
+      disabled="disabled"
+      name="radio"
+      type="radio"
+      value="1"
+    />
+     
+    <span
+      class="o-radio__label"
+    >
+      
+      Disabled
+    
+    </span>
+  </label>
+   
+  <label
+    class="o-radio o-radio--medium is-checked"
+    role="radio"
+  >
+    <input
+      aria-hidden="true"
+      class="o-radio__inner"
+      name="radio"
+      type="radio"
+      value="2"
+    />
+     
+    <span
+      class="o-radio__label"
+    >
+      
+      2
+    
+    </span>
+  </label>
+</div>
+`;
+
+exports[`Storyshots Radio with editable size 1`] = `
+<label
+  class="o-radio o-radio--medium"
+  role="radio"
+>
+  <input
+    aria-hidden="true"
+    class="o-radio__inner"
+    name="radio"
+    type="radio"
+    value="1"
+  />
+   
+  <span
+    class="o-radio__label"
+  >
+    
+      Radio
+    
+  </span>
+</label>
+`;
+
+exports[`Storyshots Row default 1`] = `
+<div
+  class="o-row is-justify-flex-start is-align-flex-start is-content-flex-start is-direction-row is-wrap"
+  style="margin-left: -10px; margin-right: -10px;"
+>
+  simple row
+</div>
+`;
+
+exports[`Storyshots Row justify and align center 1`] = `
+<div
+  class="o-row is-justify-center is-align-center is-content-flex-start is-direction-row is-wrap"
+  style="margin-left: -10px; margin-right: -10px;"
+>
+  <div
+    style="width: 25%; box-sizing: border-box;"
+  >
+    
+        box 1
+      
+  </div>
+   
+  <div
+    style="width: 25%; box-sizing: border-box;"
+  >
+    
+          box 2
+      
+  </div>
+</div>
+`;
+
+exports[`Storyshots Row justify center 1`] = `
+<div
+  class="o-row is-justify-center is-align-flex-start is-content-flex-start is-direction-row is-wrap"
+  style="margin-left: -10px; margin-right: -10px;"
+>
+  
+      simple row
+    
+</div>
+`;
+
+exports[`Storyshots Select Basic Usage 1`] = `
+<div
+  class="o-select o-select--normal"
+  style="width: 300px;"
+>
+  <button
+    class="o-select__trigger"
+  >
+    <!---->
+     
+    <!---->
+     
+    <span
+      class="o-select__placeholder"
+    >
+      
+      Select
+
+      
+      <!---->
+    </span>
+     
+    <span
+      class="o-select__arrow"
+    >
+      <i
+        class="o-icon o-icon-chevron-down"
+      />
+    </span>
+     
+    <!---->
+  </button>
+   
+  <!---->
+   
+  <div
+    class="o-select__dropdown o-popper"
+    style="display: none;"
+  >
+    <div
+      class="o-select__dropdown__inner"
+    >
+      <ul
+        class="o-select__list"
+      >
+        <li
+          class="o-select__list-item"
+        >
+          
+          São Paulo
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          London
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          Berlin
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          New York
+        
+        </li>
+      </ul>
+       
+      <!---->
+       
+      <div
+        class="o-popper__arrow"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Select Clearable 1`] = `
+<div
+  class="o-select o-select--normal"
+  style="width: 300px;"
+>
+  <button
+    class="o-select__trigger"
+  >
+    <!---->
+     
+    <!---->
+     
+    <span
+      class="o-select__placeholder"
+    >
+      
+      Select
+
+      
+      <!---->
+    </span>
+     
+    <span
+      class="o-select__arrow"
+    >
+      <i
+        class="o-icon o-icon-chevron-down"
+      />
+    </span>
+     
+    <button
+      class="o-select__clearable"
+    >
+      <i
+        class="o-icon o-icon-x"
+      />
+    </button>
+  </button>
+   
+  <!---->
+   
+  <div
+    class="o-select__dropdown o-popper"
+    style="display: none;"
+  >
+    <div
+      class="o-select__dropdown__inner"
+    >
+      <ul
+        class="o-select__list"
+      >
+        <li
+          class="o-select__list-item"
+        >
+          
+          São Paulo
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          London
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          Berlin
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          New York
+        
+        </li>
+      </ul>
+       
+      <!---->
+       
+      <div
+        class="o-popper__arrow"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Select Filterable 1`] = `
+<div
+  class="o-select o-select--normal"
+  style="width: 300px;"
+>
+  <!---->
+   
+  <div
+    class="o-select__trigger"
+    role="button"
+    style="width: 100%;"
+  >
+    <!---->
+     
+    <input
+      placeholder="Select"
+      style="max-width: 100%; width: 100px;"
+    />
+     
+    <i
+      class="o-input__icon--suffix o-select__arrow o-icon o-icon-chevron-down"
+    />
+     
+    <!---->
+  </div>
+   
+  <div
+    class="o-select__dropdown o-popper"
+    style="display: none;"
+  >
+    <div
+      class="o-select__dropdown__inner"
+    >
+      <ul
+        class="o-select__list is-multiple"
+      >
+        <li
+          class="o-select__list-item"
+        >
+          
+          São Paulo
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          London
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          Berlin
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          New York
+        
+        </li>
+      </ul>
+       
+      <!---->
+       
+      <div
+        class="o-popper__arrow"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Select Multiple Selection 1`] = `
+<div
+  class="o-select o-select--normal"
+  style="width: 300px;"
+>
+  <button
+    class="o-select__trigger"
+  >
+    <!---->
+     
+    <!---->
+     
+    <span
+      class="o-select__placeholder"
+    >
+      
+      Select
+
+      
+      <!---->
+    </span>
+     
+    <span
+      class="o-select__arrow"
+    >
+      <i
+        class="o-icon o-icon-chevron-down"
+      />
+    </span>
+     
+    <!---->
+  </button>
+   
+  <!---->
+   
+  <div
+    class="o-select__dropdown o-popper"
+    style="display: none;"
+  >
+    <div
+      class="o-select__dropdown__inner"
+    >
+      <ul
+        class="o-select__list is-multiple"
+      >
+        <li
+          class="o-select__list-item"
+        >
+          
+          São Paulo
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          London
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          Berlin
+        
+        </li>
+        <li
+          class="o-select__list-item"
+        >
+          
+          New York
+        
+        </li>
+      </ul>
+       
+      <!---->
+       
+      <div
+        class="o-popper__arrow"
+      />
+    </div>
+  </div>
+</div>
+`;

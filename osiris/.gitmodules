@@ -1,0 +1,4 @@
+[submodule "src/osiris-style"]
+	path = src/osiris-style
+	url = https://github.com/osiris-ui/osiris-style.git
+	branch = master

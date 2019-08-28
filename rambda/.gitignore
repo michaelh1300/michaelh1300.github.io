@@ -1,0 +1,6 @@
+jest_*
+*.log
+coverage
+node_modules
+lib
+dist
